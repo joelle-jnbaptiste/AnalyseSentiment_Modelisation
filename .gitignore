@@ -155,3 +155,8 @@ data/
 DISTILBERT_MODEL_TFLITE/
 nltk_data/
 TMP_TF_SAVED_MODEL/
+notebooks/data/
+notebooks/nltk_data/
+notebooks/DISTILBERT_MODEL.pt 
+*.csv
+*.pt
